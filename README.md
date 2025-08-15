@@ -16,8 +16,6 @@ Curious CSE Student | Building Skills, Solving Problems, Creating Impact</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jdivya13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdivya13" height="30" width="40" /></a>
 <a href="https://instagram.com/_divya_jagadeesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_divya_jagadeesan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jdivya13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jdivya13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/divyajojrojs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyajojrojs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
